@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="Card_Explorer.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Student.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
